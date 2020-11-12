@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.datatexto {
+    display: inline-block;
+}
+
+.form-control {
+    text-align: center;
+}
